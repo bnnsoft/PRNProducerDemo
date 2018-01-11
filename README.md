@@ -1,5 +1,5 @@
 # PRNProducerDemo
-Run the producer demo type at a Terminal command prompt:
+To run the producer type at a Terminal command prompt:
 
 java -jar PRNProducerDemo.jar
 
