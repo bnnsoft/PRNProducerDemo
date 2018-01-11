@@ -8,5 +8,4 @@ When the application starts next message will show on the screen
 
 Set publisher parameters Y/N:
 
-You can set only (1) topic name and (2) number of messages to transmit. Type 'n' to keep default values.
-All other properties are hard-coded, they can be alternated in PublisherUtils.java file.
+You can set only (1) topic name and (2) number of messages to transmit. Type 'n' to keep default values. Other properties are hard-coded, they can be alternated in PublisherUtils.java file.
